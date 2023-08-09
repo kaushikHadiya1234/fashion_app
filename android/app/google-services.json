@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "821467863605",
+    "project_id": "ecommerce-60722",
+    "storage_bucket": "ecommerce-60722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821467863605:android:717bfdb7a29dcbe522ef7c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821467863605-ktan97q8i08pod0kldli5htjel72corb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce_firebase",
+            "certificate_hash": "25cdb97e4fafa20d503c14eccf97565e7d5c6663"
+          }
+        },
+        {
+          "client_id": "821467863605-ftc3ki74unns3glqemarvpnr00vfmfaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt3ls5qA2oan0nodw8CCvAX1Z_aa6UyvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821467863605-d7nfjh2ahqq5chkab9rgvluoc91cf45a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821467863605-d898oaoiq8mfhu224rp08qrp150fhh0h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821467863605:android:a8e9b372900f01a422ef7c",
+        "android_client_info": {
+          "package_name": "com.example.fashion_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821467863605-ftc3ki74unns3glqemarvpnr00vfmfaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt3ls5qA2oan0nodw8CCvAX1Z_aa6UyvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821467863605-d7nfjh2ahqq5chkab9rgvluoc91cf45a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821467863605-d898oaoiq8mfhu224rp08qrp150fhh0h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
